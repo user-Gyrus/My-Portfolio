@@ -87,7 +87,7 @@ export const navItems = [
       des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
       img: "/p4.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://google.com",
+      link: "https://github.com/user-Gyrus/iPhoneLandingPage.github.io",
     },
     {
       id: 2,
